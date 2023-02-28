@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, helvetica, sans-serif;
+    text-align: center;
+
+    background-color: rgb(93, 230, 237);
+}
+
+hr {
+    width: 700px;
+}
